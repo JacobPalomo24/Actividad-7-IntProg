@@ -1,0 +1,7 @@
+C:\Users\jocel\source\repos\Ejemplo 4.5\bin\Debug\Ejemplo 4.5.exe.config
+C:\Users\jocel\source\repos\Ejemplo 4.5\bin\Debug\Ejemplo 4.5.exe
+C:\Users\jocel\source\repos\Ejemplo 4.5\bin\Debug\Ejemplo 4.5.pdb
+C:\Users\jocel\source\repos\Ejemplo 4.5\obj\Debug\Ejemplo 4.5.csprojAssemblyReference.cache
+C:\Users\jocel\source\repos\Ejemplo 4.5\obj\Debug\Ejemplo 4.5.csproj.CoreCompileInputs.cache
+C:\Users\jocel\source\repos\Ejemplo 4.5\obj\Debug\Ejemplo 4.5.exe
+C:\Users\jocel\source\repos\Ejemplo 4.5\obj\Debug\Ejemplo 4.5.pdb

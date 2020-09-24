@@ -1,0 +1,6 @@
+C:\Users\jocel\source\repos\Ejercicio 4.9\bin\Debug\Ejercicio 4.9.exe.config
+C:\Users\jocel\source\repos\Ejercicio 4.9\bin\Debug\Ejercicio 4.9.exe
+C:\Users\jocel\source\repos\Ejercicio 4.9\bin\Debug\Ejercicio 4.9.pdb
+C:\Users\jocel\source\repos\Ejercicio 4.9\obj\Debug\Ejercicio 4.9.csproj.CoreCompileInputs.cache
+C:\Users\jocel\source\repos\Ejercicio 4.9\obj\Debug\Ejercicio 4.9.exe
+C:\Users\jocel\source\repos\Ejercicio 4.9\obj\Debug\Ejercicio 4.9.pdb
